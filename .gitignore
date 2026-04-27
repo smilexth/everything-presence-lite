@@ -3,3 +3,7 @@
 Gemfile.lock
 _site
 .esphome
+
+# AI/Agent
+.claude/
+.specify/
